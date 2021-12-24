@@ -1,0 +1,146 @@
+@charset "utf-8";
+/* CSS Document */
+
+
+.firstrow {
+	padding: 15px 0px 15px 0px;
+	background-color: #76c7c0;
+}
+
+.bu {
+	background-color:#528b86;
+	color: aliceblue; 
+	border-radius: 5px;
+	margin: 20px 0px 0px 0px; 
+	font-size: 15px;
+}
+
+.longlist li:hover {
+	 padding-top: 15px;
+	background-color:aquamarine;
+}
+
+.longlist li {
+	margin-left: 5px;
+	padding-top: 15px;
+/*	padding-left: 20px;*/
+	list-style: none;
+	display: inline-block;
+	
+}
+
+.homelis li {
+	padding-top: 30px;
+	margin-left: 15px;
+	font-size: 13px;
+	padding-left: 5px;
+	list-style: none;
+	display: inline-block;
+}
+
+.toprank {
+	border-bottom: 1px solid #000000;
+	background-color: gainsboro;
+	padding-top: 20px;
+	padding-left: 20px;
+/*	margin-left: 10px;*/
+}
+
+.img1 {
+	padding-left: 17px;
+	padding-top: 40px;
+	background-color: gainsboro;
+}
+
+.para1 {
+	font-size: 14px;
+}
+
+
+.colormre {
+	color: red;
+	font-size: 20px;
+}
+
+.boutcl {
+	margin-left: 39px;
+}
+
+
+.hepp {
+	margin-left: 120px;
+}
+
+
+
+.ysnap {
+	margin-left: 20px;
+}
+
+
+
+.you1 {
+/*	margin-left: 20px;*/
+}
+
+
+
+.mmoorree {
+	margin-left: 30px;
+}
+
+
+
+.prre {
+	padding-left: 5px;
+	font-size: 13px;
+}
+
+
+
+.follow {
+	padding: 25px 0px 25px 0px;
+    color: azure;
+	background-color:#aa0000;
+}
+
+.fbfb {
+	width: 20px;
+}
+
+.inssta {
+	width: 30px;
+}
+
+.shadipi {
+	margin-left: 100px;
+}
+
+.backkcolorba {
+	padding-left: 17px;
+	 background-color: gainsboro;
+}
+
+
+
+.nnnew {
+	background-color: gainsboro;
+	padding-top: 30px;
+}
+
+.list11 li {
+	list-style:none;
+	font-size: 14px;
+/*	font-weight: 100;*/
+}
+
+.newgg {
+	background-color: gainsboro;
+	padding-bottom: 20px;
+}
+
+.imm {
+	margin-left: 15px;
+/*	padding-top: 5px;*/
+}
+

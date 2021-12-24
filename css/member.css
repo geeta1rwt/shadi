@@ -1,0 +1,173 @@
+@charset "utf-8";
+/* CSS Document */
+
+
+.col {
+	
+/*	padding-top: 20px;*/
+	padding: 20px 0px 20px 0px;
+	    background-color: #76c7c0;
+
+}
+
+.log {
+	margin-left: 70px;
+/*	text-align: center;*/
+}
+
+
+
+.bu {
+	background-color:#528b86;
+	color: aliceblue; 
+	border-radius: 5px;
+	margin: 20px 0px 0px 0px; 
+	font-size: 15px;
+}
+
+
+.vir {
+/*	padding-top: 50px;*/
+}
+
+.list  {
+/*	text-align: center;*/
+	padding-top: 16px;
+/*	padding-bottom: 25px;*/
+}
+
+.cd li {
+ padding-left: 5px;
+/*	background-color: aqua;*/
+	display: inline-block;
+	
+	
+	
+}
+
+
+
+
+.imgold {
+	width: 470px;
+/*	height: 400px;*/
+}
+
+.for1 {
+/*	margin-left: 80px;*/
+}
+
+.ffli {
+	font-size: 16px;
+	text-align:center;
+	margin-top: 10px;
+	margin-bottom: 30px;
+	padding:25px 15px 20px 15px;
+	border-radius: 10px;
+	border: 2px solid #FFFFFF;
+	background-color:#C29495;
+	
+}
+
+.oopp {
+	padding-top: 20px;
+/*	color: red;*/
+	color:dimgrey;
+/*	color: darkred;*/
+	 background-color:#F5E9E9;
+	text-align: center;
+}
+
+
+
+.isa {
+/*	margin-right: 5px;*/
+	font-size: 13px;
+}
+
+.mmeem {
+	margin-right: 5px;
+	font-size: 11px;
+}
+
+.ppee {
+	padding-top: 10px;
+	padding-bottom: 20px;
+	 background-color:#F5E9E9;
+}
+
+.aboutus {
+	margin-left: 15px;
+}
+
+.term {
+	
+}
+
+.advancrEE {
+	margin-left: 20px;
+}
+
+
+
+.foll {
+	margin-left: 30px;
+	color: white;
+}
+
+.isaa {
+	margin-left: 150px;
+	color: aliceblue;
+}
+
+.nee {
+	margin-left: 80px;
+}
+
+.mmeell {
+	margin: 20px 0px 0px 0px;
+/*	padding: 20px 0px 30px 0px;*/
+}
+
+
+
+.abb:hover {
+	background-color:paleturquoise;
+	border-bottom: 5px solid gray;
+	padding:10px;
+}
+
+.see:hover {
+	background-color:paleturquoise;
+	border-bottom: 5px solid gray;
+	padding:10px;
+}
+
+.meemee:hover {
+	background-color:paleturquoise;
+	border-bottom: 5px solid gray;
+	padding:10px;
+}
+
+.prii:hover {
+	background-color:paleturquoise;
+	border-bottom: 5px solid gray;
+	padding:10px;
+}
+
+.ccoo:hover {
+	background-color:paleturquoise;
+	border-bottom: 5px solid gray;
+	padding:10px;
+}
+
+
+
+.xx {
+	background-color: #aa0000;
+	padding: 20px 0px 20px 50px;
+}
+
+.trademarkE {
+	margin-left: 400px;
+}

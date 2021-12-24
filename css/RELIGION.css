@@ -1,0 +1,82 @@
+@charset "utf-8";
+/* CSS Document */
+
+
+.firsrow {
+	padding: 15px 0px 10px 0px;
+	background-color:#76c7c0;
+}
+
+.lili li {
+	display:inline-block;
+	list-style: none;
+	padding-left: 10px;
+}
+
+.lili li:hover {
+	background-color:azure;
+	border-bottom: 5px solid gray;
+	padding-bottom: 10px;
+	padding-top: 10px;
+}
+
+.bu {
+	background-color: #528b86;
+	color: white;
+	 border-radius: 4px;
+/*	 box-shadow: none;*/
+	outline: none;
+}
+
+.di {
+	color: darkred;
+	margin-left: 35px;
+}
+
+.rowwmd {
+	padding-top: 20px;
+	border-bottom: 2px solid #000000;
+}
+
+
+
+.listqq li {
+	list-style: none;
+	padding-top: 20px;
+}
+
+.newlist {padding-left: 60px;
+	font-size: 20px;
+}
+
+
+.parasha {
+	font-size: 12px;
+}
+
+.more {
+/*	margin-left: 20px;/*/
+	margin-left: 26px;
+}
+
+.longlist li {
+	list-style: none;
+}
+
+.backcolo {
+	padding-top: 20px;
+	background-color:gainsboro;
+}
+
+
+
+.xccx {
+	padding-top: 25px;
+	padding-bottom: 20px;
+	color: white;
+	background-color:#aa0000;
+}
+
+.sslat {
+	margin-left:300px;
+}

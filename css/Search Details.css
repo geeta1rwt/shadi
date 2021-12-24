@@ -1,0 +1,120 @@
+@charset "utf-8";
+/* CSS Document */
+
+
+.firstrow {
+	padding: 15px 0px 15px 0px;
+	background-color: #76c7c0;
+}
+
+.longlist li {
+	padding-top: 15px;
+	padding-left: 10px;
+	list-style: none;
+	display: inline-block;
+}
+
+.longlist li:hover {
+	padding-top: 15px;
+	background-color:cadetblue;
+}
+
+.bu {
+	background-color:#528b86;
+	color: aliceblue; 
+	border-radius: 5px;
+	margin: 20px 0px 0px 0px; 
+	font-size: 15px;
+}
+
+.homelis li {
+	padding-top: 20px;
+	font-size: 13px;
+	padding-left: 5px;
+	list-style: none;
+ display: inline-block;
+}
+
+.aboutcll {
+/*	margin-left: 10px;*/
+}
+
+.newnew {
+	padding-top: 25px;
+	margin-left: 10px;
+	background-color:gainsboro;
+/*	margin-left:40px;*/
+}
+
+.boutcl {
+/*	margin-left:10px;*/
+/*	margin-right: 29px;*/
+}
+
+
+.hepp {
+	margin-left: 120px;
+}
+
+
+
+.ysnap {
+	margin-left: 30px;
+}
+
+.you1 {
+	margin-left: 10px;
+}
+
+.mmoorree {
+	margin-left: 50px;
+}
+
+
+
+
+
+.newgg {
+  background-color:gainsboro;
+	padding-bottom: 20px;
+	margin-left: 8px;
+/*	padding-top: 20px;*/
+	
+}
+
+.prre {
+	font-size: 13px;
+}
+
+.list11 li {
+	margin-left: 2px;
+	list-style:none;
+	
+	font-size: 14px;
+	font-weight: 100;
+}
+
+
+
+.xx {
+	background-color: #aa0000;
+	padding: 20px 0px 20px 70px;
+}
+
+.foll {
+	color: white;
+}
+
+.isaa {
+	margin-left: 150px;
+	color: aliceblue;
+}
+
+.trademarkE {
+	margin-left: 400px;
+}
+
+.coole {
+	background-color: gainsboro;
+/*	backgrou/nd-color:gainsboro;*/
+}

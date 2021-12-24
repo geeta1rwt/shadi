@@ -1,0 +1,203 @@
+@charset "utf-8";
+/* CSS Document */
+
+
+.ffirr1 {
+/*	padding-top: 10px;*/
+	padding: 20px 0px 10px 0px;
+	background-color: #76c7c0;
+}
+
+.lonflist li {
+	display:inline-block;
+	padding-top: 15px;
+	padding-left: 15px;
+/*	margin-left: 50px;*/
+}
+
+
+.ll {
+	margin-left: 40px;
+}
+
+.imm {
+	margin-left: 45px;
+}
+
+
+
+
+
+
+
+.sees:hover {
+	background-color:paleturquoise;
+	border-bottom: 5px solid gray;
+	padding:15px;
+}
+
+.meemb:hover {
+	background-color:paleturquoise;
+	border-bottom: 5px solid gray;
+	padding:15px;
+}
+
+.priv:hover {
+	background-color:paleturquoise;
+	border-bottom: 5px solid gray;
+	padding:15px;
+}
+
+.confq:hover {
+	background-color:paleturquoise;
+	border-bottom: 5px solid gray;
+	padding:15px;
+}
+
+
+
+.newnew {
+	padding-top: 20px;
+	background-color:gainsboro;
+}
+
+
+
+.list11 li {
+	list-style:none;
+/*	margin-right: 40px;*/
+	font-size: 14px;
+/*	font-weight: 100;*/
+/*	text-align: center;*/
+/* display: inline-block;*/
+}
+
+.prre {
+	font-size: 13px;
+}
+
+
+
+.list12 li {
+	list-style:none;
+	font-size: 14px;
+/*	font-weight: 100;*/
+/*    margin-right: 60px;*/
+}
+
+
+
+
+.list13 li {
+	list-style:none;
+	font-size: 14px;
+/*	font-weight: 100;*/
+}
+
+.list14 li {
+	list-style:none;
+	font-size: 14px;
+/*	font-weight: 100;*/
+}
+
+
+
+
+
+.regiis {
+	padding-top: 20px;
+	margin: 0 auto;
+/*	padding: 20px 0px 20px 0px;*/
+	background-color:gainsboro;
+/*	text-align: center;*/
+}
+
+.rrte {
+	border-bottom:1px solid #3D919F;
+/*	border-bottom: thick #000000;*/
+/*	text-align: center;*/
+}
+
+.formname {
+/*	margin-left: 30px;*/
+}
+
+.submit:hover{
+	padding: 3px 0px 3px 0px;
+	background-color:maroon;
+	color: white;
+}
+.submit {
+	outline-color: red;
+	background-color:  #528b86;
+}
+
+
+
+.buusu {
+	background-color:#528b86;
+/*	padding-top: 10px;*/
+	color: aliceblue; 
+	border-radius: 5px;
+	margin-top: 15px ; 
+	font-size: 15px;
+}
+
+.hepp {
+	margin-left: 100px;
+}
+
+.ynap {
+/*	margin-left: 10px;*/
+}
+
+.you& {
+/*	margin-left:50px;*/
+}
+
+.mmoorree {
+	margin-left: 30px;
+}
+
+.subbmmit {
+	padding: 6px 8px 6px 8px;
+	background-color:#528b86;
+/*	padding-top: 10px;*/
+	color: aliceblue; 
+	border-radius: 5px;
+/*	margin-top: 15px ; */
+	font-size: 15px;
+	
+/*	margin-left: 100px;*/
+}
+
+
+
+.xx {
+	background-color: #aa0000;
+	padding: 20px 0px 20px 70px;
+}
+
+.foll {
+	margin-left: 30px;
+	color: white;
+}
+
+.isaa {
+	margin-left: 150px;
+	color: aliceblue;
+}
+
+.trademarkE {
+	margin-left: 400px;
+}
+
+.newff {
+	margin-left: 20px;
+}
+
+.abb:hover {
+	background-color:paleturquoise;
+	border-bottom: 5px solid gray;
+	padding:15px;
+}

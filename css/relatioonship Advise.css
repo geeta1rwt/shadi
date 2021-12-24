@@ -1,0 +1,167 @@
+@charset "utf-8";
+/* CSS Document */
+
+
+.firstdiv {
+	font-size: 13px;
+	padding: 25px 0px 30px 0px;
+	background-color: #76c7c0;
+}
+
+
+.list11 li {
+/*	display:inline-block;*/
+	display:inline-block;
+	padding:5px;
+	list-style:none;
+}
+
+.lonflis {
+	color: white;
+	background-color:black;
+/*	padding: 20px;*/
+	
+}
+
+.hhomelife li {
+	display:inline-block;
+	list-style: nonenon;
+	padding: 20px;
+/*	display:inline-block;*/
+/*	padding:5px;*/
+/*	list-style:none;*/
+}
+
+
+.newcont {
+	padding-top: 20px;
+	margin: 0px 20px 20px 5px;
+	background-color:white;
+}
+
+
+.lifeis {
+	padding-left: 20px;
+	border-bottom:1px solid #B3A5A6;
+}
+
+.imgrow {
+	padding-top: 10px;
+	padding-left: 10px;
+}
+
+.bolbaa {
+	margin-left: 20px;
+	padding-top: 20px;
+}
+
+.para1 {
+	margin: 0px 10px 0px 10px;
+	padding-top: 25px;
+}
+
+.somebe {
+	margin-left: 20px;
+	margin-top: 20px;
+	padding: 5px 15px 5px 15px;
+	background-color: #76c7c0;
+	color: white;
+	border-radius: 5px;
+/*	box-shadow: 4px 4px 4px 4px black;*/
+	border: 2px solid ;
+	
+}
+
+.youwon {
+/*	margin-left: 20px;*/
+	margin-top: 20px;
+	padding: 5px 15px 3px 15px;
+	background-color: #76c7c0;
+	color: white;
+	border-radius: 5px;
+/*	box-shadow: 4px 4px 4px 4px black;*/
+	border: 2px solid ;
+}
+
+
+.para2 {
+	margin-left: 20px;
+}
+
+.beeterhe {
+margin-top: 20px;
+	padding: 5px 15px 3px 15px;
+	background-color: #76c7c0;
+	color: white;
+	border-radius: 5px;
+/*	box-shadow: 4px 4px 4px 4px black;*/
+	border: 2px solid ;
+}
+
+.para3 {
+	margin-left: 20px;
+}
+
+.lili li {
+	margin-left: 20px;
+}
+
+.beingwi {
+	margin-top: 20px;
+	padding: 5px 15px 3px 15px;
+	background-color: #76c7c0;
+	color: white;
+	border-radius: 5px;
+/*	box-shadow: 4px 4px 4px 4px black;*/
+	border: 2px solid ;
+}
+
+.para4 {
+	margin-left: 20px;
+}
+
+.youwill {
+	margin-top: 20px;
+	padding: 5px 15px 3px 15px;
+	background-color: #76c7c0;
+	color: white;
+	border-radius: 5px;
+/*	box-shadow: 4px 4px 4px 4px black;*/
+	border: 2px solid ;
+}
+
+.para5 {
+	margin-left: 20px;
+}
+
+.para6 {
+	margin-left:20px;
+}
+
+.trai {
+	
+	margin-left: 30px;
+}
+
+.fullcon {
+	background-color: gainsboro;
+}
+
+.fullcon22 {
+	background-color: gainsboro;
+}
+
+.howtobe {
+/*	background-color: gainsboro;*/
+	background-color: white;
+}
+
+.lastt {
+	padding: 20px 0px 20px 0px;
+	color: white;
+	background-color: black;
+}
+
+.hhomelife li:hover {
+	background-color:#C3BFBF;
+}

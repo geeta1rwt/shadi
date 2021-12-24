@@ -1,0 +1,145 @@
+@charset "utf-8";
+/* CSS Document */
+
+
+.color {
+	background-color: #76c7c0;
+	padding-top: 10px;
+	padding-bottom:5px;
+	
+}
+
+.imgclass {
+	margin-left: 20px;
+}
+
+.liclass li {
+	display: inline-block;
+	margin-left: 8px;
+	padding-top: 10px;
+}
+
+.conline {
+	background-color: cadetblue;
+	color: aliceblue;
+	border:none;
+	border-radius: 5px;
+	margin-top: 15px;
+	padding: 2px 5px 2px 5px;
+}
+
+.logou {
+	background-color: rgba(20,156,197,1.00);
+	color: aliceblue;
+	border:none;
+	border-radius: 5px;
+	margin-top: 15px;
+	padding: 2px 5px 2px 5px;
+}
+
+
+
+
+
+.toyou {
+	color: darkred;
+}
+
+.greeting {
+	padding-top: 10px;
+	border-bottom: 2px solid rgba(83,178,238,1.00);
+}
+
+.bprder {
+	border-bottom: 2px solid rgba(221,58,61,1.00);
+}
+
+.sendyou {
+	background-color: aqua;
+	border:none;
+	margin-top:10px; 
+	color: white;
+	padding: 2px 5px 2px 5px;
+}
+
+.skip {
+	background-color:rgba(23,88,55,1.00);
+	border:none;
+/*	margin-top:10px;*/
+	color: white;
+	padding: 2px 5px 2px 5px;
+	margin-bottom: 5px;
+	margin-top: 5px;
+ margin-left: 40px;
+}
+
+.padd {
+	padding-top: 30px;
+/*   margin-left: 70px;*/
+	background-color: gainsboro;
+}
+
+.imglass {
+/*	background-color:cadetblue;*/
+	background-color: rgba(172,157,157,0.87);
+	text-align: center;
+	padding: 20px 0px 20px 0px;
+	margin-left: 30px;
+}
+
+.likiclass li {
+	list-style: none;
+	color: gray;
+}
+
+.pclass {
+	font-size: 12px;
+}
+
+.hclass {
+	text-align: center;
+	color:#666;
+}
+
+.secondclass {
+	padding-top: 40px;
+	background-color: gainsboro;
+	
+}
+
+.clas {
+	background-color:gainsboro;
+}
+
+
+
+.bb {
+	border-top: 1px solid rgba(0,0,0,1.00);
+}
+
+.cc {
+	border-top: 1px solid rgba(63,81,166,1.00);
+	padding-bottom: 15px;
+}
+
+.dd {
+	border-top: 1px solid rgba(0,0,0,1.00);
+}
+
+.ee {
+	border-top: 1px solid rgba(50,156,170,1.00);
+}
+
+.ffbb {
+	margin-left: 5px;
+}
+
+.colorbb {
+	background-color: #aa0000;
+	padding: 20px 0px 20px 0px;
+	color: white;
+}
+
+.margin {
+	margin-left: 120px;
+}

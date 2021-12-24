@@ -1,0 +1,133 @@
+@charset "utf-8";
+/* CSS Document */
+
+/*input[name='gender']::before{
+	content: "";
+	width:60px;
+	height: 30px;
+	background-color:green;
+}*/
+
+.fememle{
+	position: absolute;
+  	top: 0;
+ 	 left: 0;
+ 	 height: 50px;
+ 	 width: 50px;
+ 	 background-color: #eee;
+ 	 border-radius: 10px;
+}
+
+.fememle:after{
+	content: "";
+	position: absolute;
+	display: none;
+}
+
+input[name='gender']:checked ~ .fememle:after{
+	display: block;
+}
+
+input[name='gender']:checked ~ .fememle{
+	background-color:#940C0E;
+}
+
+input[name='gender']:after {
+    font-family: 'FontAwesome';
+    content: attr(data-icon);
+	font-size: 40px;
+	position: absolute;
+	top:-7px;
+	left:6px;
+}
+
+input[name='gender']:checked{
+	color:#940C0E;
+	background-color:#940C0E;
+}
+
+.xy {
+	background-color: rgba(65,180,175,0.59);
+	height: 100vh;
+}
+
+.box {
+	box-shadow:1px 1px 1px 1px black;
+	background-color: white;
+	text-align: center;
+	color: #666;
+	padding-top: 15px;
+	border-radius: 5px;
+    border-color: #000000;
+	padding-bottom: 15px;
+}
+
+
+
+.self {
+	margin-top: 20px;
+	background-color: #c7e9e7;
+	border-radius: 5px;
+	box-shadow:1px 1px 0px 0px red;
+	padding: 4px 4px 4px 4px;
+	color:#666;
+}
+
+.lilist li {
+	padding: 10px 10px 10px 10px;
+/*	margin-left: 6px;*/
+	display: inline-block;
+	border-radius: 10px;
+	 border-color: #000000;
+	background-color: #c7e9e7;
+	color:#666;
+	 font-family:inherit; 
+/*	font-family: inherit;*/
+}
+.lilist li:hover{
+	background-color: red;
+	color: white;
+}
+
+.connti{
+	margin-top: 30px;
+	padding: 10px 10px 10px 10px;
+	background-color:#528b86;
+	color: white;
+	border:2px solid #C5171A;
+	border-radius: 5px;
+}
+
+.connti:hover{
+	background-color: red;
+	color: white;
+}
+
+.fulli {
+	background-image: url("../image/01.jpg");
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+
+.imafe {
+	width: 140px;
+	padding-top: 20px;
+	margin-left: 30px;
+}
+
+/*.fememle {
+	background: #c7e9e7;
+	border-radius: 10px;
+	padding-bottom: 10px;
+	padding-top: 10px;
+	padding-right: 3px;
+	padding-left: 3px;
+    margin-left: 15px;
+}*/
+
+
+/*.fememle:hover {
+	background-color: red;
+	color: white;
+}
+*/

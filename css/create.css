@@ -1,0 +1,176 @@
+@charset "utf-8";
+/* CSS Document */
+
+
+.cd li {
+	display: inline-block;
+	padding: 5px;
+}
+
+.log {
+	margin-left: 70px;
+}
+
+.list {
+	padding-top: 16px;
+}
+
+.abb:hover {
+	background-color:paleturquoise;
+	border-bottom: 5px solid gray;
+	padding:10px;
+}
+
+.col {
+	background-color: #76c7c0;
+}
+
+.see:hover {
+	background-color:paleturquoise;
+	border-bottom: 5px solid gray;
+	padding:10px;
+}
+
+.meemee:hover {
+	background-color:paleturquoise;
+	border-bottom: 5px solid gray;
+	padding:10px;
+}
+
+.prii:hover {
+	background-color:paleturquoise;
+	border-bottom: 5px solid gray;
+	padding:10px;
+}
+
+.ccoo:hover {
+	background-color:paleturquoise;
+	border-bottom: 5px solid gray;
+	padding:10px;
+}
+
+.bu {
+	background-color:#528b86;
+	color: aliceblue; 
+	border-radius: 5px;
+	margin: 20px 0px 0px 0px; 
+	font-size: 15px;
+}
+
+.ppee {
+	background-color:#F5E9E9;
+}
+
+.isa {
+	font-size: 10px;
+}
+
+.mmeem {
+	margin-right: 5px;
+	font-size: 11px;
+}
+
+.advancrEE {
+	margin-left: 20px;
+}
+
+.xx {
+	background-color: red;
+	padding: 10px 0px 0px 70px;
+}
+
+.foll {
+	margin-left: 30px;
+	color: white;
+}
+
+.isaa {
+	margin-left: 150px;
+	color: aliceblue;
+}
+
+.oopp {
+	padding-top: 20px;
+/*	color: red;*/
+	color:dimgrey;
+	 background-color:#F5E9E9;
+	text-align: center;
+}
+
+.nee {
+	margin-left: 80px;
+}
+
+.row {
+	padding-top: 10px;
+	border-bottom: 2px solid #000000;
+}
+
+.row {
+	
+}
+
+.fir {
+	padding: 5px 400px 0px 0px;
+}
+
+.for {
+	margin-left: 30px;
+}
+
+.lass {
+	padding: 5px 400px 0px 0px;
+}
+
+.ree {
+	
+}
+
+.year {
+	padding: 5px 60px 0px 0px;
+}
+
+.date {
+	padding: 5px 60px 0px 00px;
+}
+
+.month {
+/*	padding: 5px 60px 0px 0px;*/
+	padding: 0px 60px 0px 0px;
+}
+
+.edu {
+	padding: 5px 400px 0px 0px;
+}
+
+.cou {
+	padding: 5px 400px 0px 0px;
+}
+
+.emm {
+	padding: 5px 340px 0px 0px;
+}
+
+.pass {
+	padding: 5px 340px 0px 0px;
+}
+
+.subb {
+	background-color:#298C7E;
+	color: aliceblue;
+	border-radius: 5px;
+}
+
+
+
+.cced {
+	background-color: #E3D5D5;
+}
+
+.ceed {
+	background-color: #E3D5D5;
+}
+
+.ree1 {
+	margin-left: 40px;
+}

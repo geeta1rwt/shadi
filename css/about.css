@@ -1,0 +1,185 @@
+@charset "utf-8";
+/* CSS Document */
+
+
+.longlist li:hover {
+	padding-top: 15px;
+	background-color:aquamarine;
+}
+
+.firstrow {
+	padding: 15px 0px 15px 0px;
+	background-color: #76c7c0;
+}
+
+.longlist li {
+	
+	padding-top: 15px;
+	padding-left: 10px;
+	list-style: none;
+	display: inline-block;
+}
+
+.bu {
+	background-color:#528b86;
+	color: aliceblue; 
+	border-radius: 5px;
+	margin: 20px 0px 0px 0px; 
+	font-size: 15px;
+}
+
+.homelis li {
+	padding-top: 40px;
+	font-size: 13px;
+	padding-left: 5px;
+	list-style: none;
+ display: inline-block;
+}
+
+.sscla {
+	padding-top: 20px;
+	color: darkred;
+}
+
+
+
+.aboutcll {
+	padding-top: 20px;
+	margin-left: 10px;
+}
+
+
+.para23 {
+	font-size: 17px;
+}
+
+
+
+
+
+
+
+	
+
+
+
+
+.hepp {
+	margin-left: 130px;
+}
+
+.hepp {
+	
+}
+
+.ynap {
+	margin-left: 30px;
+}
+
+.you1 {
+/* margin-left: 20px;*/
+}
+
+.mmoorree {
+	margin-left: 50px;
+}
+
+.newnnew {
+/*	margin-left: 40px;*/
+	padding-top: 20px;
+	background-color:gainsboro;
+}
+
+.prre {
+	font-size: 14px;
+/*	background-color:gainsboro;*/
+}
+
+.newgg {
+background-color:gainsboro;
+	padding-bottom: 20px;
+/*	font-size:17px;*/
+}
+
+.boutcl {
+	margin-left: 10px;
+}
+
+.list11 li {
+	list-style:none;
+	
+	font-size: 14px;
+	font-weight: 100;
+}
+
+.list12 li {
+	list-style:none;
+	font-size: 14px;
+	font-weight: 100;
+}
+
+.list13 li {
+	list-style:none;
+	font-size: 14px;
+	font-weight: 100;
+}
+
+.list14 li {
+	list-style:none;
+	font-size: 14px;
+	font-weight: 100;
+}
+
+.ysnap {
+	margin-left: 30px;
+}
+
+.follow {
+	padding: 30px 0px 30px 0px;
+/*	padding-top: 20px;*/
+/*	padding-bottom: 20px;*/
+	color: azure;
+	background-color:#aa0000;
+/*	margin-left: 40px;*/
+}
+
+.photo {
+	margin-left: 30px;
+}
+
+.fbfb {
+		width: 20px;
+}
+
+.inssta {
+	width: 30px;
+}
+
+.twitter {
+	width: 30px;
+}
+
+.shadipi {
+	margin-left: 100px;
+}
+
+.newnew {
+	padding-top: 30px;
+	
+}
+
+.foundd {
+	color:gray;
+}
+
+.heddd {
+	color: firebrick;
+}
+
+.colo {
+	background-color:gainsboro;
+}
+
+.list11 li {
+	font-size: 16px;
+}

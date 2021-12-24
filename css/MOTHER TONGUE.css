@@ -1,0 +1,131 @@
+@charset "utf-8";
+/* CSS Document */
+
+
+.firstrow {padding-top: 15px;
+	padding-bottom: 15px;
+	background-color: #76c7c0;
+}
+
+.bu {
+	background-color:#528b86;
+	color: aliceblue; 
+	border-radius: 5px;
+	margin: 20px 0px 0px 0px; 
+	font-size: 15px;
+}
+
+.longlist li {
+	padding-top: 15px;
+	padding-left: 10px;
+	list-style: none;
+	display: inline-block;
+}
+
+.longlist li:hover {
+	padding-top: 20px;
+	padding-bottom: 20px;
+	padding-right: 15px;
+	background-color:#C67FD5;
+}
+
+
+
+.matri {
+	padding-top: 18px;
+/*	margin-right: 20px;*/
+}
+
+.diss {
+	padding-top: 18px;
+	color:#9F1C1E;
+	margin-left: 50px;
+}
+
+
+
+.firstli li {
+	padding-top: 20px;
+	list-style: none;
+	padding-bottom: 10px;
+}
+
+
+.nnnew {
+	
+	color:grey;
+	padding-top: 30px;
+}
+
+.boutcl {
+/*	margin-left: 39px;*/
+}
+
+.hepp {
+	margin-left: 130px;
+}
+
+.ysnap {
+	margin-left: 30px;
+}
+
+.you1 {
+/*	margin-left: 20px;*/
+}
+
+.mmoorree {
+	margin-left: 50px;
+}
+
+.prre {
+	font-size: 14px;
+}
+
+.follow {
+	padding: 20px 0px 20px 0px;
+    color: azure;
+	background-color:#aa0000;
+}
+
+.fbfb {
+	width: 20px;
+}
+
+.inssta {
+	width: 30px;
+}
+
+.shadipi {
+	margin-left: 100px;
+}
+
+.llee {
+	
+}
+
+.newgg li {
+	list-style: none;
+	
+}
+
+.newgg {
+	padding-top: 10px;
+/*	padding-bottom: 8px;*/
+	padding-bottom: 10px;
+	background-color: gainsboro;
+}
+
+.ccoll {
+	background-color: #76c7c0;
+}
+
+.collowe {
+	padding-bottom: 30px;
+	background-color: gainsboro;
+}
+
+.list11  li{
+	list-style:none;
+	font-size: 14px;
+	padding-bottom: 30px;
+}
